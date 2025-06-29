@@ -1,7 +1,7 @@
-🖥️ PixelOS
+# 🖥️ PixelOS
 Lightweight Windows Subsystem Built in Python
 
-🚀 About the Project
+# 🚀 About the Project
 PixelOS is a modular Windows subsystem written in Python, designed to:
 
 Extend Windows functionality through scripts and APIs.
@@ -9,14 +9,14 @@ Simplify task automation using Python.
 Integrate third-party tools and Python libraries into Windows.
 Ideal for developers, system administrators, and enthusiasts who want to create custom solutions for Windows.
 
-⚡ Features
+# ⚡ Features
 Modularity: Add/remove components without restarting the core.
 Python Integration: Full access to Python’s standard library and third-party packages (e.g., pywin32, psutil).
 Automation: Create scripts to manage processes, files, networks, and other Windows resources.
 Cross-Platform Compatibility: Works on Windows 10/11 and compatible with Linux (via WSL).
 Windows API Access: Direct access to Windows APIs via Python (e.g., registry management, window control, driver interactions).
 
-🛠️ Installation
+# 🛠️ Installation
 Ensure you have Python 3.10+ and Windows Subsystem for Linux (WSL) installed.
 Clone the repository:
 
